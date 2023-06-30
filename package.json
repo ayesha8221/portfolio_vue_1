@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "portfolio_vue1",
+=======
+  "name": "portfolio_vue_1",
+>>>>>>> bd7d5ba2cf1295672b6a910625452f725bb14369
   "version": "0.1.0",
   "private": true,
   "scripts": {

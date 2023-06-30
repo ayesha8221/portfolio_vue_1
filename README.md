@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # portfolio_vue1
+=======
+# portfolio_vue_1
+>>>>>>> bd7d5ba2cf1295672b6a910625452f725bb14369
 
 ## Project setup
 ```
